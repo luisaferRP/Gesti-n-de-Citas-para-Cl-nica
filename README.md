@@ -1,4 +1,4 @@
-# Gesti-n-de-Citas-para-Cl-nica
+# Gestion-para-Clinica
 desarrollar un sistema de gestión de citas para una clínica privada.
 # Employement Assessment
 Appointment management system for a clinic.
